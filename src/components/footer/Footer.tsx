@@ -4,7 +4,7 @@ import instagram from "react-useanimations/lib/instagram";
 
 const Footer = () => {
   return (
-    <footer className="w-full flex flex-row justify-between">
+    <footer className="w-full flex flex-row justify-between items-center">
       <div className="flex flex-row gap-6 ml-6">
         <a href="#">
           <UseAnimations
